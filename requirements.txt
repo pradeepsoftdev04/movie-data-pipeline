@@ -1,0 +1,19 @@
+# Core dependencies
+pandas==2.1.4
+requests==2.31.0
+sqlalchemy==2.0.23
+python-dotenv==1.0.0
+
+# Database drivers (choose based on your database)
+# For MySQL:
+pymysql==1.1.0
+
+# For PostgreSQL (uncomment if using PostgreSQL):
+# psycopg2-binary==2.9.9
+
+# For SQLite: No additional driver needed (built into Python)
+
+# Optional: Development and testing tools
+# pytest==7.4.3
+# pytest-cov==4.1.0
+# ipython==8.18.1
