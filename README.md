@@ -1,4 +1,4 @@
-# Movie ETL Pipeline with IMDb ID Fallback
+# Movie ETL Pipeline
 
 A comprehensive ETL (Extract, Transform, Load) pipeline that extracts movie data from CSV files, enriches it with OMDb API data using intelligent fallback strategies, and loads it into a relational database with **99.2% API match success rate**.
 
@@ -736,5 +736,6 @@ Include in your report:
 **Version**: 2.0 (with IMDb ID Fallback)  
 **Last Updated**: October 2025  
 **Author**: Pradeep kumar
+
 
 ⭐ **Star this project if you found it helpful!**
